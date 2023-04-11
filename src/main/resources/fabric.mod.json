@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "borderless",
+  "version": "${version}",
+  "name": "borderless",
+  "description": "",
+  "authors": [
+    "ChloeCDN"
+  ],
+  "contact": {
+    "repo": "https://github.com/chloecdn/borderless"
+  },
+  "license": "MIT",
+  "icon": "assets/borderless/icon.png",
+  "environment": "client",
+  "entrypoints": {},
+  "mixins": [
+    "borderless.mixins.json"
+  ]
+}

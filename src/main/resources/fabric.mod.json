@@ -10,7 +10,7 @@
   "contact": {
     "repo": "https://github.com/lunatic-gh/borderless-window"
   },
-  "license": "WTFPL",
+  "license": "DFM",
   "icon": "assets/borderlesswindow/icon.png",
   "environment": "client",
   "entrypoints": {},

@@ -1,4 +1,4 @@
-package de.chloedev.borderless.mixin;
+package me.lunatic.borderlesswindow.mixin;
 
 import net.minecraft.client.util.Window;
 import org.lwjgl.glfw.GLFW;

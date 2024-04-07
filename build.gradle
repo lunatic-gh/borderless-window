@@ -20,7 +20,7 @@ dependencies {
     /* Fabric-Loader */
     modImplementation "net.fabricmc:fabric-loader:${project.loader_version}"
 
-        /* IDE-Only Modrinth-Mods */
+    /* IDE-Only Modrinth-Mods */
     modImplementation("maven.modrinth:lazydfu:0.1.3")
 }
 
@@ -52,7 +52,7 @@ java {
 
 jar {
     from("LICENSE") {
-        rename { "${it}_${project.archivesBaseName}"}
+        rename { "${it}_${project.archivesBaseName}" }
     }
 }
 

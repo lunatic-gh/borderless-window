@@ -1,20 +1,20 @@
 {
   "schemaVersion": 1,
-  "id": "borderless",
+  "id": "borderlesswindow",
   "version": "${version}",
-  "name": "borderless",
+  "name": "Borderless Window",
   "description": "",
   "authors": [
-    "ChloeCDN"
+    "Lunatic"
   ],
   "contact": {
-    "repo": "https://github.com/chloecdn/borderless"
+    "repo": "https://github.com/lunatic-gh/borderless-window"
   },
-  "license": "MIT",
-  "icon": "assets/borderless/icon.png",
+  "license": "WTFPL",
+  "icon": "assets/borderlesswindow/icon.png",
   "environment": "client",
   "entrypoints": {},
   "mixins": [
-    "borderless.mixins.json"
+    "borderlesswindow.mixins.json"
   ]
 }
